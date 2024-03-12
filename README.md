@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carina!
-- 👀 I’m interested in machine learning, algorithmic fairness, biostatistics, and improving the health of New York City and beyond!
+- 👀 I’m interested in machine learning, algorithmic fairness, ethical AI, biostatistics, and improving the health of New York City and beyond!
 - 🌱 I’m currently learning unsupervised learning in Python, optimizing R code using C++, coding with SQL within SAS
 - 📫 How to reach me: carinadoyle@nyu.edu
 - 😄 Pronouns: she/her/hers
